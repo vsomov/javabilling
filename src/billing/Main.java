@@ -61,11 +61,8 @@ public class Main {
         		
 				
 				System.out.println("Done reading from the database.");
-				
-				
-				
-			
-        	}
+					
+			}
         }
 		
 		
