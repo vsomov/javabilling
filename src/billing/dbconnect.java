@@ -8,6 +8,7 @@ import java.sql.Statement;
 
 public class dbconnect {
 	public Connection run(String database, String dbuser, String dbpassword){
+//		public Connection run(String database, String dbuser, String dbpassword){
 		Connection conn = null;
 		Statement stmt = null;
 		ResultSet rs = null;
